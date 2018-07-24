@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/5450104/using-jquery-to-get-all-checked-checkboxes-with-a-certain-class-name
+https://www.formget.com/checkuncheck-all-checkboxes-using-jquery/
+http://bytutorial.com/blogs/jquery/jquery-get-selected-checkboxes
